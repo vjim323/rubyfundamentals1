@@ -9,4 +9,6 @@ tipdollar = cost_of_meal * tippercentage / 100
 
 puts "Then please tip $#{tipdollar}"
 
+#Question 2: Adding a string and an integer
 
+puts "I am " + 26.to_s + " years old"
