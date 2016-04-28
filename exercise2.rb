@@ -18,3 +18,7 @@ puts "I am " + 26.to_s + " years old"
 output = 45628 * 7839
 
 puts "The result of 45628 multiplied by 7839 is #{output}!"
+
+#Question 4: testing true and false combinations
+
+puts (true && false) || (false && true) || !(false && false)
