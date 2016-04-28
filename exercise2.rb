@@ -12,3 +12,9 @@ puts "Then please tip $#{tipdollar}"
 #Question 2: Adding a string and an integer
 
 puts "I am " + 26.to_s + " years old"
+
+#Question 3: practicing string interpolation
+
+output = 45628 * 7839
+
+puts "The result of 45628 multiplied by 7839 is #{output}!"
